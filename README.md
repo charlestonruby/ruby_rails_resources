@@ -44,6 +44,7 @@
 
 # Rails Testing
 - [RSpec-rails-examples](https://github.com/eliotsykes/rspec-rails-examples)
+- [Capybara Cheat Sheet](http://cheatrags.com/capybara)
 
 # Text Editor Stuff
 
